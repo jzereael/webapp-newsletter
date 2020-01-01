@@ -38,7 +38,7 @@ app.post("/", function(req, res) {
     url: 'https://us4.api.mailchimp.com/3.0/lists/d733e88c13',
     method: 'POST',
     headers: {
-      "Authorization": "jesse1 126819ee99dbb50a46a126229e6f0d6c-us4"
+      "Authorization": "jesse1"
     },
     //You need to stringify JavaScript Object
     body: JSON.stringify(data)
