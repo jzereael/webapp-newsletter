@@ -68,8 +68,3 @@ app.post("/", function(req, res) {
 app.listen(port, function(req, res) {
   console.log(`Server started @ port ${port}`);
 });
-
-//ID
-//126819ee99dbb50a46a126229e6f0d6c-us4
-//API
-//7130361748
